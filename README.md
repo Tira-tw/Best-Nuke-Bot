@@ -62,12 +62,24 @@ npm install
 > ✅快速刪除身分組 <br>
 <img src="https://cdn.discordapp.com/attachments/1009977660061007982/1009988723426992158/unknown.png" with="600" heigh="400" alt="一張圖片">
 <br>
+
 # 缺點
+
 > ❌除了開發者以外其他用戶以及有權限的用戶無法使用! <br>
 <img src="https://cdn.discordapp.com/attachments/1009977660061007982/1009988804481925230/unknown.png" with="600" heigh="400" alt="一張圖片">
+
+# 啟動Bot
+
+```
+node src/index.js
+```
+
 # 注意事項
+
 > 若用戶使用了源代碼 , 我們不負責後續的處理 , 也不參與! <br>
+
 # 源代碼
+
 > 源代碼並不是本人製作的! , 本人只提供中文! <br>
 > 作者 : [17teen](https://github.com/17teen) <br>
 > 源代碼 : [Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker) <br>
