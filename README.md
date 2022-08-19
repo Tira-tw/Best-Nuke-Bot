@@ -12,7 +12,14 @@ npm install
 
 # 修改
 <br>
-您需要在[config/config.json](https://github.com/Tira-tw/Best-Nuke-Bot/blob/main/config/config.json)修改
+您需要在config/config.json修改! <br>
+<br>
+{ <br>
+    "token": "Bot-Token", #添加Token <br>
+    "prefix": "-", <br> 
+    "userID": "用戶ID",  #添加您的用戶ID <br>
+    "disableEveryone": true <br>
+} <br>
 
 # 功能
 
