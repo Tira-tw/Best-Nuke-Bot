@@ -10,6 +10,10 @@
 2.安裝npm :
 npm install
 
+# 修改
+<br>
+您需要在[config/config.json]()修改
+
 # 功能
 
 ℹ️ 新增頻道 <br>
