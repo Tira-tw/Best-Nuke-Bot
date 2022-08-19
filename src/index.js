@@ -25,25 +25,25 @@ nuker.on("messageCreate", (message) => {
 
     // Help Embed
     const help = new MessageEmbed()
-        .setDescription(`**防禦Bot ;**
-    \n**新增頻道 ;**
+        .setDescription(`**防禦Bot**
+    \n**新增頻道**
     ${prefix}add 數量 頻道名稱 示範 : \`${prefix}add 1 test\`\n
-    **保護頻道 ;**
+    **保護頻道**
     ${prefix}pr 數量 頻道名稱, 原因 示範 : \`${prefix}pr 5 gay, Google is Good\`\n
-    **添加身分組 ;**
-    ${prefix}pc 身分組數量 原因 示範 : \`${prefix}pc 5 test\`\n
-    **刪除特定頻道 ;**
+    **添加身分組**
+    ${prefix}pc 身分組數量 名稱 示範 : \`${prefix}pc 5 test\`\n
+    **刪除特定頻道**
     ${prefix}dc #頻道名稱\n
-    **刪除特定身分組 ;**
+    **刪除特定身分組**
     ${prefix}dr @身分組\n
-    **刪除特定表情符號 ;**
+    **刪除特定表情符號**
     ${prefix}de id\n
-    **刪除特定貼圖 ;**
+    **刪除特定貼圖**
     ${prefix}ds 貼圖名稱\n
-    **踢出特定玩家 ;**
-    ${prefix}kick\n
-    **停權特定玩家 ;**
-    ${prefix}ban
+    **踢出特定用戶**
+    ${prefix}kick @用戶ID\n
+    **停權特定用戶**
+    ${prefix}ban @用戶
     `)
         .setFooter(`© defense Bot`)
         .setColor(213,245,227)
