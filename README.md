@@ -72,13 +72,13 @@ npm@8.18.0 <br>
 > ✅每100個標註訊息    ✅100ping 7秒達成 <br>
 > ✅快速刪除頻道 <br>
 > ✅快速刪除身分組 <br>
-<img src="https://cdn.discordapp.com/attachments/1009977660061007982/1009988723426992158/unknown.png" with="600" heigh="400" alt="一張圖片">
+<img src="https://cdn.discordapp.com/attachments/1009999160168161371/1009999328737239050/nuke_1.png" with="600" heigh="400" alt="一張圖片">
 <br>
 
 # 缺點
 
 > ❌除了開發者以外其他用戶以及有權限的用戶無法使用! <br>
-<img src="https://cdn.discordapp.com/attachments/1009977660061007982/1009988804481925230/unknown.png" with="600" heigh="400" alt="一張圖片">
+<img src="https://cdn.discordapp.com/attachments/1009999160168161371/1009999335406194718/help_2.png" with="600" heigh="400" alt="一張圖片">
 
 # 啟動Bot
 
