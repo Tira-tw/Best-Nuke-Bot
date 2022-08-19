@@ -8,8 +8,9 @@
 <br>
 1.安裝Nodejs v16 <br>
 2.安裝npm :
-npm install
-
+npm install <br>
+vps : <br>
+npm@8.18.0 <br>
 # 修改
 <br>
 您需要在config/config.json修改! <br>
