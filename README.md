@@ -6,9 +6,9 @@
 
 # 安裝
 <br>
-1.安裝[Nodejs v16](https://nodejs.org/en/) <br>
+1.安裝Nodejs v16 <br>
 2.安裝npm :
-`npm install`
+npm install
 
 # 功能
 
@@ -18,7 +18,7 @@
 ```
 -add 1 test
 ```
-ℹ️ 保護頻道 <br>
+ℹ️ 保護頻道 [添加頻道+標註+訊息] [實際上的指令 : `-pr 標註數量 頻道名稱, 訊息`] <br>
 -pr 數量 頻道名稱, 原因 示範 : 
 ```
 -pr 5 gay, Google is Good
@@ -29,29 +29,29 @@
 ```
 -pc 5 test
 ```
-ℹ️ 刪除特定頻道 [刪除全部頻道] [只需要`-dc`就好]<br>
+ℹ️ 刪除特定頻道 [刪除全部頻道] [只需執行`-dc`]<br>
 ```
 -dc #頻道名稱  
 ```
-ℹ️ 刪除特定身分組 [刪除全部身分組] [只需要`-dr`就好] <br>
+ℹ️ 刪除特定身分組 [刪除全部身分組] [只需執行`-dr`] <br>
 ```
 -dr @身分組
 ```
-ℹ️ 刪除特定表情符號 [刪除全部表情符號] [只需要`-de`就好] <br>
+ℹ️ 刪除特定表情符號 [刪除全部表情符號] [只需執行`-de`] <br>
 ```
 -de id
 ```
-ℹ️ 刪除特定貼圖 [刪除全部貼圖] [只需要`-ds`就好] <br>
+ℹ️ 刪除特定貼圖 [刪除全部貼圖] [只需執行`-ds`] <br>
 ```
 -ds 貼圖名稱
 ```
-ℹ️ 踢出特定用戶 [踢出全部用戶] <br>
+ℹ️ 踢出特定用戶 [踢出全部用戶] [只需執行`-kick`] <br>
 ```
--kick
+-kick @用戶ID
 ```
-ℹ️ 停權特定用戶 [踢出全部] <br>
+ℹ️ 停權特定用戶 [踢出全部] [只需執行`-ban`] <br>
 ```
--ban
+-ban @用戶ID
 ```
 # 優點
 > ✅仿真防禦Bot <br>
@@ -60,7 +60,16 @@
 > ✅每100個標註訊息    ✅100ping 7秒達成 <br>
 > ✅快速刪除頻道 <br>
 > ✅快速刪除身分組 <br>
-
+<img src="https://cdn.discordapp.com/attachments/1009977660061007982/1009988723426992158/unknown.png" with="600" heigh="400" alt="一張圖片">
+<br>
 # 缺點
-> ❌除了開發者以外其他用戶以及有權限的用戶無法使用!
+> ❌除了開發者以外其他用戶以及有權限的用戶無法使用! <br>
+<img src="https://cdn.discordapp.com/attachments/1009977660061007982/1009988804481925230/unknown.png" with="600" heigh="400" alt="一張圖片">
+# 注意事項
+> 若用戶使用了源代碼 , 我們不負責後續的處理 , 也不參與! <br>
+# 源代碼
+> 源代碼並不是本人製作的! , 本人只提供中文! <br>
+> 作者 : [17teen](https://github.com/17teen) <br>
+> 源代碼 : [Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker) <br>
+> 翻譯作者 : [Tira-tw](https://github.com/Tira-tw)
 
