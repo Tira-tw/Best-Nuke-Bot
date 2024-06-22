@@ -11,17 +11,13 @@
 npm install <br>
 vps : <br>
 npm@8.18.0 <br>
-<h3>修改<h3>
-<hr>
+3.安裝py <br>
+4.執行setup.bat <br>
+![image](https://github.com/Tira-tw/Best-Nuke-Bot/assets/64715639/befbf4f2-06f5-4767-b276-3d13ef0b4b2b)
 <br>
-您需要在config/config.json修改! <br>
-<br>
-{ <br>
-    "token": "Bot-Token", #添加Token <br>
-    "prefix": "-", <br> 
-    "userID": "用戶ID",  #添加您的用戶ID <br>
-    "disableEveryone": true <br>
-} <br>
+5.執行start.bat <br>
+
+
 
 # 功能
 
